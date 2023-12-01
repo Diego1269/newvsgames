@@ -1,0 +1,16 @@
+{
+  "short_name": "VSGames",
+  "name": "VisionGames",
+  "description": "La mejor página de reventa de videojuegos para consolas Xbox con el mejor precio en México",
+  "icons": [
+    {
+      "src": "./ojo-abierto.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#95d488",
+  "background_color": "#212121"
+}
